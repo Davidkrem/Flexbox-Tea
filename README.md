@@ -23,5 +23,5 @@ This work was built using flexbox css and html. I used *Code Academy's* design s
 Completed
 
 ### **View My Project**
-Coming soon!
+https://davidkrem.github.io/Flexbox-Tea/
 
