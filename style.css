@@ -76,7 +76,7 @@
   
   header {
     width: 34%;
-    position: fixed;
+    position: absolute;
     /* z-index: 10; */
     padding-bottom: 5px;
     height: 70px;
@@ -97,7 +97,7 @@
 
   h1 {
       font-size: 3rem;
-      font-family: fantasy;
+      font-family: cursive;
       letter-spacing: .3rem;
   }
   h1.animate__animated.animate__fadeIn {
